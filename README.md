@@ -109,7 +109,7 @@ If Type 1 → DM chooses Low, Opponent chooses High
 If Type 2 → DM chooses High, Opponent chooses Low
 
 🧮 Game Tree
-![Game_Tree](images/Extensive_Form_Matrix.png)
+![Game_Tree](images/Extensive_Form.png)
 
 🏆 Nash Equilibrium
 
