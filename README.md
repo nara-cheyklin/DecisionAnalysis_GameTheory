@@ -34,13 +34,13 @@ Opponent Strategies
 
 💰 Payoff Matrices
 Type 1 Opponent (Market Share Focused)
-DM \ Opponent	l	h
-L	(10, 10)	(15, 5)
-H	(5, 15)	(12, 12)
+
+![Market Share Focused](images/Market_Shared_Focused_Matrix.png)
+
 Type 2 Opponent (Profit Focused)
-DM \ Opponent	l	h
-L	(10, 8)	(15, 10)
-H	(5, 12)	(12, 15)
+
+![Profit Focused](images/Profit_Focused_Matrix.png)
+
 
 📐 Utility Functions
 
@@ -108,12 +108,9 @@ Example:
 If Type 1 → DM chooses Low, Opponent chooses High
 If Type 2 → DM chooses High, Opponent chooses Low
 
-🧮 Normal Form (Expected Payoffs)
-DM \ Opponent	ll	lh	hl	hh
-LL	(10, 9.4)	(8.5, 10.6)	(6.5, 12.9)	(5, 14.1)
-LH	(10, 9.4)	(10.6, 11.5)	(11.4, 10.8)	(12, 12.9)
-HL	(15, 6.5)	(12, 7.1)	(8, 13.5)	(5, 14.1)
-HH	(15, 6.5)	(14.1, 8)	(12.9, 11.4)	(12, 12.9)
+🧮 Game Tree
+![Game_Tree](images/Extensive_Form_Matrix.png)
+
 🏆 Nash Equilibrium
 
 The Bayesian Nash Equilibria are:
